@@ -204,7 +204,9 @@ Ya solo falta centrar los números otra vez pero te lo dejo de tarea, no sin ant
     
 - Guía de CSS Grid
 
-[Actividades](https://www.notion.so/a328ab8157d34cb3b64491b90ac06c75)
+[Actividad CSS Grid](https://gist.github.com/Alfredprofe/b6a1100ad82e1d4b7d237d974696ffd5)
+
+[Actividad Flexbox](https://gist.github.com/Alfredprofe/d14334e45867b8b2f1c8b59e59134b56)
 
 ### Referencia bibliográfica
 
