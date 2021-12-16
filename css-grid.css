@@ -1,0 +1,13 @@
+body .grid-column {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 100vh;
+}
+
+body .grid-column div {
+    align-items: center;
+    background: #12abe2;
+    display: flex;
+    justify-content: center;
+}

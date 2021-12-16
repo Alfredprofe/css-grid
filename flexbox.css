@@ -1,0 +1,11 @@
+body .flexbox {
+    display: flex;
+    gap: 16px;
+    height: 100vh;
+}
+
+body .flexbox div {
+    background: #12abe2;
+    height: 100px;
+    width: 100px;
+}
